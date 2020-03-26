@@ -1,2 +1,2 @@
 # amoba
-Az első Javascript programom, a Flow Academy képzéselső hónapja után.
+My first Javascript program after my first month at Flow Academy.
